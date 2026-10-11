@@ -15,3 +15,5 @@
 @media(max-width:760px){.workshop.has-photo summary{grid-template-columns:26px minmax(0,1fr) 20px;row-gap:18px}.workshop-photo{grid-column:2;grid-row:2;width:100px;height:100px}.workshop.has-photo summary>.plus{grid-column:3;grid-row:1}.workshop-title>.workshop-byline{font-size:.72rem;margin-top:12px}}
 @media(max-width:480px){.partner-list{grid-template-columns:1fr}.partner-list img{height:140px}.partner-list figure{padding:28px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
+
+.workshop-photo--iure img{width:150%;left:-21%;top:-2%}
