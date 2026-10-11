@@ -22,7 +22,7 @@ window.EVENTO = {
     {name:'Julian Rigo',image:'julian',role:'Roda de conversa',shift:'Manhã'},
     {name:'Hermano Andrade',image:'hermano',role:'Roda de conversa',shift:'Manhã e tarde'},
     {name:'Cris Machado',image:'cris',role:'Mediação',shift:'Manhã'},
-    {name:'Hevelyn Bravin',image:'hevelyn',role:'Ex-aluna do Curso Técnico em Informática',shift:''},
+    {name:'Hevelyn Bravin',image:'hevelyn',role:'Aluna do Curso Técnico em Informática',shift:''},
     {name:'Kamyla Beatriz',image:'kamyla',role:'Ex-aluna do Curso Técnico em Informática',shift:''}
   ],
   partners: [
