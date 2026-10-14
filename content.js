@@ -2,14 +2,26 @@
 window.EVENTO = {
   registrationUrl: null,
   schedule: [
-    ['7h às 8h', 'Credenciamento', 'Recepção e registro de presença.'],
-    ['8h às 8h30', 'Abertura + momento cultural', 'Acolhida oficial e apresentação cultural.'],
-    ['8h30 às 9h30', 'Roda de conversa', 'Profissões do Futuro: como a tecnologia e a Inteligência Artificial estão transformando o mercado de trabalho.'],
-    ['9h30 às 9h50', 'Intervalo / lanche', 'Pausa nas atividades.'],
-    ['9h50 às 10h', 'Orientações', 'Retorno ao teatro para orientações sobre as oficinas.'],
-    ['10h às 10h45', '1ª rodada de oficinas', 'Atividades nos laboratórios e no teatro.'],
-    ['10h45 às 11h30', '2ª rodada de oficinas', 'Repetição das oficinas para novo público, conforme horário escolhido na Even3.'],
-    ['11h30 às 12h10', 'Encerramento oficial', 'Agradecimentos, reconhecimento aos colaboradores e parceiros, brindes, foto oficial e fala final.']
+    ['07h00 – 07h30', 'Credenciamento e recepção dos participantes', ''],
+    ['07h30 – 08h00', 'Abertura oficial e momento cultural', ''],
+    ['08h00 – 08h30', 'Tecnologia na Indústria', 'Inovação e transformação digital na Corcovado Mineração.'],
+    ['08h30 – 09h30', 'Roda de conversa', 'Profissões do Futuro — Tecnologia, Inteligência Artificial e Mercado de Trabalho.'],
+    ['09h30 – 09h50', 'Intervalo para lanche', ''],
+    ['09h50 – 10h00', 'Orientações e direcionamento para as oficinas', ''],
+    ['10h00 – 11h30', 'Oficinas práticas', ''],
+    ['11h30 – 12h10', 'Encerramento', '']
+  ],
+  afternoonSchedule: [
+    ['13h00 – 13h30', 'Credenciamento e recepção dos participantes', ''],
+    ['13h30 – 14h00', 'Abertura oficial e momento cultural', ''],
+    ['14h00 – 14h30', 'Tecnologia no Setor Sucroenergético', 'Inovação e transformação digital na Usina Santa Maria.'],
+    ['14h30 – 15h30', 'Roda de conversa', 'Profissões do Futuro — Tecnologia, Inteligência Artificial e Mercado de Trabalho.'],
+    ['15h30 – 15h50', 'Intervalo para lanche', ''],
+    ['15h50 – 16h00', 'Orientações e direcionamento para as oficinas', ''],
+    ['16h00 – 16h40', 'Oficina 1', ''],
+    ['16h40 – 17h25', 'Oficina 2', ''],
+    ['17h25 – 17h35', 'Organização para o encerramento', ''],
+    ['17h35 – 18h10', 'Encerramento', '']
   ],
   workshops: [
     {number:'01',title:'IA na Prática',subtitle:'criando, produzindo e resolvendo problemas',description:'Explore prompts, criação de textos e ideias e o uso da Inteligência Artificial no estudo e no trabalho, com atenção às informações falsas e às respostas inventadas.',person:'Iure Ramalho',photo:'iure',shift:'Manhã e tarde',place:'Laboratório de Informática',color:'lime',symbol:'✳'},

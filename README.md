@@ -14,4 +14,4 @@ Site do evento do CETEP de Medeiros Neto, Bahia.
 - `app.js`: navegação e apresentação do conteúdo.
 - `assets/`: imagens do evento otimizadas para a web.
 
-Site estático, sem instalação ou compilação. O GitHub Pages publica a raiz da branch `main`. A data e a programação permanecem identificadas como previstas até validação final da organização.
+Site estático, sem instalação ou compilação. O GitHub Pages publica a raiz da branch `main`. Data confirmada: 22 de outubro de 2026. Programação oficial dos turnos matutino e vespertino.
