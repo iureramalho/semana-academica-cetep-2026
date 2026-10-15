@@ -26,7 +26,7 @@ window.EVENTO = {
   workshops: [
     {number:'01',title:'IA na Prática',subtitle:'criando, produzindo e resolvendo problemas',description:'Explore prompts, criação de textos e ideias e o uso da Inteligência Artificial no estudo e no trabalho, com atenção às informações falsas e às respostas inventadas.',person:'Iure Ramalho',photo:'iure',shift:'Manhã e tarde',place:'Laboratório de Informática',color:'lime',symbol:'✳'},
     {number:'02',title:'Cibersegurança',subtitle:'você está realmente seguro na internet?',description:'Reconheça phishing, golpes digitais, QR Codes falsos e riscos de exposição de dados. Discuta senhas, autenticação em dois fatores e hábitos mais seguros.',person:'Daniel Queiroz',photo:'daniel',shift:'Manhã e tarde',place:'Laboratório de Gestão e Negócios',color:'aqua',symbol:'↗'},
-    {number:'03',title:'Design que Conecta',subtitle:'Canva, Marketing e Atendimento Digital',description:'Conheça princípios de comunicação visual, cores, tipografia e hierarquia. Explore o Canva, a criação de posts e o atendimento e a comunicação com clientes.',person:'Agamo Alves · manhã / Mateus Orange · tarde',shift:'Manhã e tarde',place:'Laboratório de Humanas',color:'gold',symbol:'◒'},
+    {number:'03',title:'Design que Conecta',subtitle:'Canva, Marketing e Atendimento Digital',description:'Conheça princípios de comunicação visual, cores, tipografia e hierarquia. Explore o Canva, a criação de posts e o atendimento e a comunicação com clientes.',person:'Agamo Alves · manhã / Mateus Silva · tarde',photos:[{image:'agamo',name:'Agamo Alves',shift:'Manhã'},{image:'mateus',name:'Mateus Silva',shift:'Tarde'}],shift:'Manhã e tarde',place:'Laboratório de Humanas',color:'gold',symbol:'◒'},
     {number:'04',title:'Conexão Tech',subtitle:'oportunidades, escolhas e futuro profissional',description:'Converse sobre profissões em tecnologia, caminhos de formação, empreendedorismo digital e formas de construir experiência ainda no ensino médio.',person:'Hermano Andrade',photo:'hermano',shift:'Manhã e tarde',place:'Teatro do CETEP',color:'orange',symbol:'↗'}
   ],
   guests:[
@@ -35,7 +35,10 @@ window.EVENTO = {
     {name:'Hermano Andrade',image:'hermano',role:'Roda de conversa',shift:'Manhã e tarde'},
     {name:'Cris Machado',image:'cris',role:'Mediação',shift:'Manhã'},
     {name:'Hevelyn Bravin',image:'hevelyn',role:'Aluna do Curso Técnico em Informática',shift:''},
-    {name:'Kamyla Beatriz',image:'kamyla',role:'Ex-aluna do Curso Técnico em Informática',shift:''}
+    {name:'Kamyla Beatriz',image:'kamyla',role:'Ex-aluna do Curso Técnico em Informática',shift:''},
+    {name:'Maria Eduarda',image:'maria-eduarda',role:'Aluna do Curso Técnico em Informática',shift:'Tarde'},
+    {name:'Mateus Silva',image:'mateus',role:'Roda de conversa',shift:'Tarde'},
+    {name:'Edson Amorim',image:'edson',role:'Mediação',shift:'Tarde'}
   ],
   partners: [
     {name:'ADEX',image:'assets/patrocinador-adex.webp',category:'Patrocinador'},
